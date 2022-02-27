@@ -1,7 +1,6 @@
-# React-Native-Projects
+# React-Native Projects
 
-## List
-
+### List
 - Weather App
 - To Do App
 
